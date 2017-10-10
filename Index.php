@@ -5,11 +5,15 @@
 
 </head>
 <body>
-
-4554545454    
+  
     
 <?php
-echo "Hello World";
+    $myText1="Hello Mr Sir"
+$myText2="Computer Says No"
+
+echo $myText1;
+echo "<br/><br/>"
+echo $myText2;
 ?>
 </body>
 </html>
