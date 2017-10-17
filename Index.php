@@ -7,7 +7,7 @@
 <body>
   
 <?php
-print("REEEEEEE")
+print "<h1>REEEEEEE</h1>";
 $myText1="Hello Mr Sir";
 $myText2="Computer Says No";
 echo $myText1;
