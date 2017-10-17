@@ -15,5 +15,6 @@ echo $myText1;
 echo $myText2;
     
 ?>
+    
 </body>
 </html>
