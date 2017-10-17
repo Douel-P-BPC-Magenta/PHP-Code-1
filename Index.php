@@ -8,6 +8,7 @@
   
 <?php
 print "<h1>REEEEEEE</h1>";
+echo "<br><br>";
 $myText1="Hello Mr Sir";
 $myText2="Computer Says No";
 echo $myText1;
