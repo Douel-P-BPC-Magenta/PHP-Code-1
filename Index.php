@@ -9,10 +9,8 @@
 <?php
 $myText1="Hello Mr Sir";
 $myText2="Computer Says No";
-
 echo $myText1;
 echo $myText2;
-    
 ?>    
 
     
