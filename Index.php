@@ -1,5 +1,3 @@
-
-<html>
 <head>
     <title>My First Website</title>
 
@@ -17,4 +15,3 @@ echo $myText2;
 ?>
     
 </body>
-</html>
